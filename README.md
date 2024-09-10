@@ -1,13 +1,24 @@
 <p align=”center”>
-<img width=”200" height=”200" src=”https://github.com/user-attachments/assets/eed005cb-b0a6-4a48-a3d1-e408d09438c0.gif" alt=”my banner”>
+<img width=”200" height=”200" src=”https://github.com/user-attachments/assets/eed005cb-b0a6-4a48-a3d1-e408d09438c0" alt=”my banner”>
 </p>
 ![Banner](https://github.com/user-attachments/assets/eed005cb-b0a6-4a48-a3d1-e408d09438c0.gif)
-:wave: Welcome to My GitHub!
+#👋 Welcome to My GitHub!
+<h2 align="center">
 Hi, I'm Ashutosh Raj, a passionate student and technology enthusiast on a mission to solve real-world problems with innovative code. 🚀
+</h2>
+<h3 align="center">
 🔭 Currently working on: Building a MERN stack app to detect drug-related activities on Telegram using NLP and Python microservices.
+</h3>
+<h3 align="center">
 🌱 Learning: Deepening my knowledge in Algo,Web3, WebSockets, and machine learning for data analysis.
+</h3>
+<h3 align="center">
 🚀 Future Goals: Exploring the intersection of AI and Blockchain 
+  </h3>
+<h3 align="center">
 🤝 Collaborations: Open to exciting projects, hackathons, and meaningful collaborations in web development and AI.
+  </h3>
+
 🌟 Fun Fact
 When I'm not coding, you'll find me exploring cutting-edge tech trends 
 Feel free to check out my projects and connect with me here or on
