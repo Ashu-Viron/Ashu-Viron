@@ -1,14 +1,14 @@
 <p align="center">
-  ![Banner](https://github.com/user-attachments/assets/eed005cb-b0a6-4a48-a3d1-e408d09438c0| width=1200)
+  ![Banner](https://github.com/user-attachments/assets/eed005cb-b0a6-4a48-a3d1-e408d09438c0)
 </p>
 
-## 👋 Welcome to My GitHub!
+# 👋 Welcome to My GitHub!
 <h3 align="center">
 Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Ashutosh</a> 👋
 </h3>
 
 <h2 align="center">
-a passionate student and technology enthusiast on a mission to solve real-world problems with innovative code. 🚀
+A passionate student and technology enthusiast on a mission to solve real-world problems with innovative code. 🚀
 </h2> 
 
 <p>🔭 Currently working on: Building a MERN stack app to detect drug-related activities on Telegram using NLP and Python microservices.</p>
