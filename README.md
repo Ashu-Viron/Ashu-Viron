@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eed005cb-b0a6-4a48-a3d1-e408d09438c0" width="1200" height="300" alt="my banner">
+  ![Banner](https://github.com/user-attachments/assets/eed005cb-b0a6-4a48-a3d1-e408d09438c0| width=1200)
 </p>
 
-#👋 Welcome to My GitHub!
+## 👋 Welcome to My GitHub!
 <h3 align="center">
 Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Ashutosh</a> 👋
 </h3>
