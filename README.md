@@ -1,7 +1,7 @@
 <p align=”center”>
 <img width=”200" height=”200" src=”https://github.com/user-attachments/assets/eed005cb-b0a6-4a48-a3d1-e408d09438c0.gif" alt=”my banner”>
 </p>
-![Banner](https://github.com/user-attachments/assets/eed005cb-b0a6-4a48-a3d1-e408d09438c0)
+![Banner](https://github.com/user-attachments/assets/eed005cb-b0a6-4a48-a3d1-e408d09438c0.gif)
 :wave: Welcome to My GitHub!
 Hi, I'm Ashutosh Raj, a passionate student and technology enthusiast on a mission to solve real-world problems with innovative code. 🚀
 🔭 Currently working on: Building a MERN stack app to detect drug-related activities on Telegram using NLP and Python microservices.
