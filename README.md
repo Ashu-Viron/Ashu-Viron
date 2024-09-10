@@ -2,16 +2,16 @@
 <img width=”200" height=”200" src=”https://github.com/user-attachments/assets/eed005cb-b0a6-4a48-a3d1-e408d09438c0" alt=”my banner”>
 </p>
 ![Banner](https://github.com/user-attachments/assets/eed005cb-b0a6-4a48-a3d1-e408d09438c0.gif)
-#👋 Welcome to My GitHub!
+##👋 Welcome to My GitHub!
 <h2 align="center">
 Hi, I'm Ashutosh Raj, a passionate student and technology enthusiast on a mission to solve real-world problems with innovative code. 🚀
 </h2>
-<li>
+
 <p>🔭 Currently working on: Building a MERN stack app to detect drug-related activities on Telegram using NLP and Python microservices.</p>
 <p>🌱 Learning: Deepening my knowledge in Algo,Web3, WebSockets, and machine learning for data analysis.</p>
 <p>🚀 Future Goals: Exploring the intersection of AI and Blockchain </p>
 <p>🤝 Collaborations: Open to exciting projects, hackathons, and meaningful collaborations in web development and AI.</p>
-</li>
+
 
 🌟 Fun Fact
 When I'm not coding, you'll find me exploring cutting-edge tech trends 
