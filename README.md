@@ -1,11 +1,15 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/eed005cb-b0a6-4a48-a3d1-e408d09438c0.gif" alt="my banner">
+<img src="https://github.com/user-attachments/assets/eed005cb-b0a6-4a48-a3d1-e408d09438c0.gif" width="250" hight="250" alt="my banner">
 </p>
 
-##👋 Welcome to My GitHub!
+#👋 Welcome to My GitHub!
+<h3 align="center">
+Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Ashutosh</a> 👋
+</h3>
+
 <h2 align="center">
-Hi, I'm Ashutosh Raj, a passionate student and technology enthusiast on a mission to solve real-world problems with innovative code. 🚀
-</h2>
+a passionate student and technology enthusiast on a mission to solve real-world problems with innovative code. 🚀
+</h2> 
 
 <p>🔭 Currently working on: Building a MERN stack app to detect drug-related activities on Telegram using NLP and Python microservices.</p>
 <p>🌱 Learning: Deepening my knowledge in Algo,Web3, WebSockets, and machine learning for data analysis.</p>
