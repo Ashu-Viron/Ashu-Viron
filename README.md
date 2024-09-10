@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/eed005cb-b0a6-4a48-a3d1-e408d09438c0)
+![Banner](https://github.com/user-attachments/assets/eed005cb-b0a6-4a48-a3d1-e408d09438c0=250x250)
 
 ##👋 Welcome to My GitHub!
 <h2 align="center">
