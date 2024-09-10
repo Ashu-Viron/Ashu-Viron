@@ -7,10 +7,10 @@
 Hi, I'm Ashutosh Raj, a passionate student and technology enthusiast on a mission to solve real-world problems with innovative code. 🚀
 </h2>
 <li>
-🔭 Currently working on: Building a MERN stack app to detect drug-related activities on Telegram using NLP and Python microservices.
-🌱 Learning: Deepening my knowledge in Algo,Web3, WebSockets, and machine learning for data analysis.
-🚀 Future Goals: Exploring the intersection of AI and Blockchain 
-🤝 Collaborations: Open to exciting projects, hackathons, and meaningful collaborations in web development and AI.
+<p>🔭 Currently working on: Building a MERN stack app to detect drug-related activities on Telegram using NLP and Python microservices.</p>
+<p>🌱 Learning: Deepening my knowledge in Algo,Web3, WebSockets, and machine learning for data analysis.</p>
+<p>🚀 Future Goals: Exploring the intersection of AI and Blockchain </p>
+<p>🤝 Collaborations: Open to exciting projects, hackathons, and meaningful collaborations in web development and AI.</p>
 </li>
 
 🌟 Fun Fact
