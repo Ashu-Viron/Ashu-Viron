@@ -1,7 +1,5 @@
-<p align=”center”>
-<img width=”200" height=”200" src=”https://github.com/user-attachments/assets/eed005cb-b0a6-4a48-a3d1-e408d09438c0" alt=”my banner”>
-</p>
-![Banner](https://github.com/user-attachments/assets/eed005cb-b0a6-4a48-a3d1-e408d09438c0.gif)
+![Banner](https://github.com/user-attachments/assets/eed005cb-b0a6-4a48-a3d1-e408d09438c0)
+
 ##👋 Welcome to My GitHub!
 <h2 align="center">
 Hi, I'm Ashutosh Raj, a passionate student and technology enthusiast on a mission to solve real-world problems with innovative code. 🚀
