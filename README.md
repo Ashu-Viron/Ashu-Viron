@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/eed005cb-b0a6-4a48-a3d1-e408d09438c0" width="1200" alt="Banner">
-</p>
 
 # 👋 Welcome to My GitHub!
 <h3 align="center">
