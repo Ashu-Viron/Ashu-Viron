@@ -9,7 +9,7 @@ Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">
 A passionate student and technology enthusiast on a mission to solve real-world problems with innovative code. 🚀
 </h2> 
 
-<p>🔭 Currently working on: Building a MERN stack app to detect drug-related activities on Telegram using NLP and Python microservices.</p>
+<p>🔭 Currently working on: Realtime Chat based Application using native websocket ,with integration of web3 on it.</p>
 <p>🌱 Learning: Deepening my knowledge in Algo,Web3, WebSockets, and machine learning for data analysis.</p>
 <p>🚀 Future Goals: Exploring the intersection of AI and Blockchain </p>
 <p>🤝 Collaborations: Open to exciting projects, hackathons, and meaningful collaborations in web development and AI.</p>
