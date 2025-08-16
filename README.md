@@ -60,6 +60,6 @@ Feel free to check out my projects and connect with me here or on
 
 ## 📈 GitHub Stats 
 
-![Ashutosh GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashu-Viron&show_icons=true&theme=transparent&rank_icon=github)
+![Ashutosh GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashu-Viron&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu-Viron&layout=compact)](https://github.com/Ashu-Viron)
