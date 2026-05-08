@@ -1,65 +1,131 @@
-
-
 # 👋 Welcome to My GitHub!
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;WebSocket+%2B+Web3+Enthusiast;AI+%2B+Blockchain+Explorer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashu-Viron&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Ashutosh</a> 👋
+Hi there, I'm <a href="https://github.com/Ashu-Viron">Ashutosh Raj</a> 👋
 </h3>
 
 <h2 align="center">
-A passionate student and technology enthusiast on a mission to solve real-world problems with innovative code. 🚀
-</h2> 
+A passionate developer building scalable realtime applications using MERN, WebSockets, AI and Web3 🚀
+</h2>
 
-<p>🔭 Currently working on: Realtime Chat based Application using native websocket ,with integration of web3 on it.</p>
-<p>🌱 Learning: Deepening my knowledge in Algo,Web3, WebSockets, and machine learning for data analysis.</p>
-<p>🚀 Future Goals: Exploring the intersection of AI and Blockchain </p>
-<p>🤝 Collaborations: Open to exciting projects, hackathons, and meaningful collaborations in web development and AI.</p>
+---
 
+# 🚀 About Me
 
-🌟 Fun Fact
-When I'm not coding, you'll find me exploring cutting-edge tech trends 
-Feel free to check out my projects and connect with me here or on
+- 🔭 Currently working on: Realtime Chat Application using Native WebSockets + Web3
+- 🌱 Learning: DSA, AI, Blockchain, WebSockets and System Design
+- ⚡ Exploring: AI Avatars, WebRTC and Real-time Communication
+- 🤝 Open to: Collaborations, Open Source and Hackathons
+- 🎯 Goal: Building impactful products solving real-world problems
 
-### 🤝 Connect with me:
+---
 
-<a href="https://www.linkedin.com/in/ashutosh-raj-9734b1292/"><img align="left" src="https://github.com/Ashu-Viron/Ashu-Viron/blob/main/images/linkedin.svg" alt="Ahutosh Raj | LinkedIn" width="21px"/></a>
-</br>
+# 🌐 Connect With Me
 
-## 💼 Technical Skills
+<p align="center">
+<a href="https://www.linkedin.com/in/ashutosh-raj-9734b1292/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-![](https://img.shields.io/badge/Code-MONGODB-informational?style=flat&logo=mongodb&logoColor=white)
-![C++](https://img.shields.io/badge/Code-c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Solidity](https://img.shields.io/badge/Code-Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+<a href="[https://leetcode.com/](https://leetcode.com/u/Virozen/)">
+<img width="48px" src="https://cdn.simpleicons.org/leetcode" />
+</a>
 
+<a href="[https://www.hackerrank.com/](https://www.hackerrank.com/profile/ashutoshra8581)">
+<img width="48px" src="https://cdn.simpleicons.org/hackerrank" />
+</a>
 
-</br>
+<a href="mailto:ashutoshra8581@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
 
-![](https://img.shields.io/badge/Forums-Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Forums-Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
-![Hackerrank](https://img.shields.io/badge/Forums-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+---
 
-</br>
+# 💻 Tech Stack
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,js,ts,cpp,java,python,solidity,docker,git,github,tailwind,figma" />
+</p>
 
-</br>
+---
 
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+# 🚀 Featured Projects
 
+## 💬 Realtime Chat Application
+- Native WebSocket based realtime communication
+- Shared rooms + Emoji Support
+- Web3 tipping using NIBI token
+- User Presence & Dynamic Notifications
 
-## 📈 GitHub Stats 
+---
 
-![Ashutosh GitHub stats](https://github-readme-stats-snowy-chi-74.vercel.app/api?username=Ashu-Viron&show_icons=true&theme=tokyonight)
+## 🧠 AI Mock Interview Platform
+- AI avatar based mock interview system
+- SadTalker + Piper TTS integration
+- WebRTC powered realtime interactions
 
-[![Top Langs](https://github-readme-stats-snowy-chi-74.vercel.app/api/top-langs/?username=Ashu-Viron&layout=compact)](https://github.com/Ashu-Viron)
+---
+
+## 🏥 MediConnect
+- MERN based Hospital Management System
+- Inventory & Bed Management
+- Notification System using NestJS
+
+---
+
+# 📊 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=contest" />
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats-snowy-chi-74.vercel.app/api?username=Ashu-Viron&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats-snowy-chi-74.vercel.app/api/top-langs/?username=Ashu-Viron&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Ashu-Viron&theme=tokyonight" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashu-Viron&theme=tokyo-night)](https://github.com/Ashu-Viron)
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ashu-Viron&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+💡 When I'm not coding, you'll find me exploring cutting-edge technologies and building side projects.
+
+---
