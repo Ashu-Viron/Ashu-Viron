@@ -35,11 +35,11 @@ A passionate developer building scalable realtime applications using MERN, WebSo
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="[https://leetcode.com/](https://leetcode.com/u/Virozen/)">
+<a href="https://leetcode.com/u/Virozen/">
 <img width="48px" src="https://cdn.simpleicons.org/leetcode" />
 </a>
 
-<a href="[https://www.hackerrank.com/](https://www.hackerrank.com/profile/ashutoshra8581)">
+<a href="https://www.hackerrank.com/profile/ashutoshra8581">
 <img width="48px" src="https://cdn.simpleicons.org/hackerrank" />
 </a>
 
@@ -85,7 +85,7 @@ A passionate developer building scalable realtime applications using MERN, WebSo
 # 📊 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/Virozen?theme=dark&font=Nunito&ext=contest" />
 </p>
 
 ---
